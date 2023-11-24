@@ -1,0 +1,1 @@
+Copy of the whiteboard app from https://www.freecodecamp.org/news/build-a-whiteboard-app/
